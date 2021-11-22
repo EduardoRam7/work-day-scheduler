@@ -8,6 +8,8 @@ SO THAT I can manage my time effectively
 ---------------------
 Acceptance Criteria
 ---------------------
+![Purple-Minutes-Style-Demo (1)](https://user-images.githubusercontent.com/82625726/142786146-b6f3fa69-64bd-4336-94c9-97b401beb590.gif)
+
 
 GIVEN I am using a daily planner to create a schedule
 
